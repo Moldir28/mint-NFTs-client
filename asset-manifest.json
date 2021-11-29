@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Moldir28/mint-NFTs-client/static/css/main.549d56fa.chunk.css",
+    "main.js": "/Moldir28/mint-NFTs-client/static/js/main.15722e31.chunk.js",
+    "main.js.map": "/Moldir28/mint-NFTs-client/static/js/main.15722e31.chunk.js.map",
+    "runtime-main.js": "/Moldir28/mint-NFTs-client/static/js/runtime-main.d5623cb7.js",
+    "runtime-main.js.map": "/Moldir28/mint-NFTs-client/static/js/runtime-main.d5623cb7.js.map",
+    "static/js/2.5bb32f53.chunk.js": "/Moldir28/mint-NFTs-client/static/js/2.5bb32f53.chunk.js",
+    "static/js/2.5bb32f53.chunk.js.map": "/Moldir28/mint-NFTs-client/static/js/2.5bb32f53.chunk.js.map",
+    "index.html": "/Moldir28/mint-NFTs-client/index.html",
+    "static/css/main.549d56fa.chunk.css.map": "/Moldir28/mint-NFTs-client/static/css/main.549d56fa.chunk.css.map",
+    "static/js/2.5bb32f53.chunk.js.LICENSE.txt": "/Moldir28/mint-NFTs-client/static/js/2.5bb32f53.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/Moldir28/mint-NFTs-client/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5623cb7.js",
+    "static/js/2.5bb32f53.chunk.js",
+    "static/css/main.549d56fa.chunk.css",
+    "static/js/main.15722e31.chunk.js"
+  ]
+}
